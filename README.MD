@@ -11,7 +11,6 @@ It is completely based on Josean Martinez config.
 
 ```bash
   brew install koekeishiya/formulae/yabai
-
   yabai --start-service
   yabai --restart-service
 ```
@@ -20,7 +19,6 @@ It is completely based on Josean Martinez config.
   brew install koekeishiya/formulae/skhd
   skhd --start-service
   skhd --restart-service
-
 ```
 
 # Usage
@@ -33,7 +31,6 @@ It is completely based on Josean Martinez config.
 | |      | Description                |
 | :-------- | :------- | :------------------------- |
 | `option` | `j` | **focus** south windows |
-
 | `option` | `k` | **focus** north windows |
 | `option` | `h` | **focus** west windows |
 | `option` | `l` | **focus** east windows |
@@ -71,7 +68,6 @@ It is completely based on Josean Martinez config.
 | `shift` | `alt` | `j` | **swap** south|
 | `shift` | `alt` |`k` | **swap** north |
 | `shift` | `alt` |`h` | **swap** west |
-
 | `shift` | `alt` |`l` | **swap** east |
 
 ### move window and split
@@ -80,7 +76,6 @@ It is completely based on Josean Martinez config.
 | :-------- | :------- |  :------- |:------------------------- |
 | `shift` | `alt` | `j` | **warp** south|
 | `shift` | `alt` |`k` | **warp** north |
-
 | `shift` | `alt` |`h` | **warp** west |
 | `shift` | `alt` |`l` | **warp** east |
 
@@ -88,16 +83,11 @@ It is completely based on Josean Martinez config.
 ### move window to space #
 
 | |      | |Description                |
-
 | :-------- | :------- |  :------- |:------------------------- |
 | `shift` | `alt` | `1` | **move** to space 1|
 | `shift` | `alt` | `2` | **move** to space 2|
-
 | `shift` | `alt` | `3` | **move** to space 3|
 | `shift` | `alt` | `4` | **move** to space 4|
 | `shift` | `alt` | `5` | **move** to space 5|
 | `shift` | `alt` | `6` | **move** to space 6|
-
 | `shift` | `alt` | `7` | **move** to space 7|
-
-
