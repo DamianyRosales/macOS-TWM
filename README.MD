@@ -5,6 +5,8 @@ This is my configuration for [Yabai](https://github.com/koekeishiya/yabai "Tilin
 
 It is completely based on Josean Martinez config.
 
+![yabai in macos](./images/yabai.jpg)
+
 # Installation
 
 ```bash
